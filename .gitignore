@@ -1,2 +1,5 @@
 *.pro
 *.pro.user
+
+images/TeamPhotos/*.jpg
+src/Assets/model.json
